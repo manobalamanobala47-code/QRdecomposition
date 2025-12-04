@@ -1,4 +1,4 @@
-# Algorithm for QR Decomposition
+<img width="1261" height="751" alt="Screenshot 2025-12-04 213717" src="https://github.com/user-attachments/assets/9be8e93b-5071-4d78-a202-8c53efc8b04c" /># Algorithm for QR Decomposition
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
@@ -61,13 +61,14 @@ print("The R Matrix is\n",R)
 ```
 
 ## Output
-```
-<img width="1134" height="753" alt="Screenshot 2025-12-04 213659" src="https://github.com/user-attachments/assets/20fc5697-a157-4119-9875-2d4f5e23e0f5" />
 
-<img width="1261" height="751" alt="Screenshot 2025-12-04 213717" src="https://github.com/user-attachments/assets/9f115c6e-f860-409e-8556-bfe70c66af3c" />
+<img width="1134" height="753" alt="Screenshot 2025-12-04 213659" src="https://github.com/user-attachments/assets/76f38c54-1a70-43de-b653-c0fc9bbcdd0a" />
+
+<img width="1261" height="751" alt="Screenshot 2025-12-04 213717" src="https://github.com/user-attachments/assets/2131ac10-af66-4ccd-a421-ae26fb4dccd6" />
 
 
-```
+
+
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
