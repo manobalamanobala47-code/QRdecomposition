@@ -1,4 +1,3 @@
-<img width="1261" height="751" alt="Screenshot 2025-12-04 213717" src="https://github.com/user-attachments/assets/9be8e93b-5071-4d78-a202-8c53efc8b04c" /># Algorithm for QR Decomposition
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
